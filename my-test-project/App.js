@@ -29,7 +29,7 @@ export default function App() {
         {text: 'Understood', onPress: console.log('alert closed')}
       ]);
     }else{
-      if(text.length > 3){
+      if(text.length >= 3){
         setTodos((prevTodos) => {
           return [
             {text: text, key: Math.random().toString()},
