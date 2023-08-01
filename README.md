@@ -21,7 +21,8 @@ If you want to start the application you have to have NodeJS on you machine. You
 
 4. Attempt for adding very short todo (alert is shown)
 
-![AddingShortTodo](https://github.com/velizar92/ReactTodoApp/assets/40525254/204bfe8c-7bf9-4fe1-bbe8-d373f7b8e234)
+![newnwenwne](https://github.com/velizar92/ReactTodoApp/assets/40525254/071ae985-a3d6-4795-88bc-7ea28004e0ab)
+
 
 5. Deleting of ToDo /alert is shown/
 
