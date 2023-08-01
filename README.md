@@ -1,5 +1,5 @@
 # ReactTodoApp
-Simple ToDo App made during the React Native crash course.
+Simple ToDo App made during the React Native course.
 
 Detail descripion: 
 
