@@ -1,4 +1,4 @@
-# ReactTodoApp
+# ReactNativeTodoApp
 Simple ToDo App made during the React Native course.
 
 Detail descripion: 
