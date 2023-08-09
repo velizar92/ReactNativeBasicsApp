@@ -29,7 +29,7 @@ const GoalInput = ({ onAddGoal, isVisible, onCancel }) => {
         />
         <TextInput
           style={styles.textInput}
-          placeholder="Your todo here"
+          placeholder="Your goal here"
           onChangeText={goalInputHandler}
           value={enteredGoalText}
         />
@@ -38,7 +38,7 @@ const GoalInput = ({ onAddGoal, isVisible, onCancel }) => {
             <Button title="Cancel" onPress={onCancel} color="#f312a2" />
           </View>
           <View style={styles.button}>
-            <Button title="Add Todo" onPress={addGoalHandler} color="#5e0acc" />
+            <Button title="Add Goal" onPress={addGoalHandler} color="#5e0acc" />
           </View>
         </View>
       </View>

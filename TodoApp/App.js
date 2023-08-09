@@ -6,7 +6,12 @@ import GoalItem from "./components/GoalItem";
 import GoalInput from "./components/GoalInput";
 
 export default function App() {
-  const [courseGoals, setCourseGoals] = useState([]);
+  const [courseGoals, setCourseGoals] = useState([
+    { id: 1, text: "To learn React Native basics" },
+    { id: 2, text: "To progress in React Native" },
+    { id: 3, text: "To practice with many simple projects" },
+  ]);
+
   const [modalIsVisible, setModalIsVisible] = useState(false);
 
   function startAddGoalHandler() {
@@ -36,7 +41,7 @@ export default function App() {
       <StatusBar style="light" />
       <View style={styles.appContainer}>
         <Button
-          title="Add New Todo"
+          title="Add New Goal"
           color="#5e0acc"
           onPress={startAddGoalHandler}
         />
