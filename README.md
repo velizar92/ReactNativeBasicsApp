@@ -9,15 +9,19 @@ If you want to start the application you have to have NodeJS on you machine. You
 
 1. Initial View /on Android emulator/:
 
-![MainScreen](https://github.com/velizar92/ReactNativeBasicsApp/assets/40525254/26e13ae8-5191-49ce-8fc7-3089c2775436)
+![main](https://github.com/velizar92/ReactNativeBasicsApp/assets/40525254/76739a84-9b6f-42dc-870e-4a7682b68f0a)
+
 
 2. Add new Goal
 
-![Add](https://github.com/velizar92/ReactNativeBasicsApp/assets/40525254/34eb55f3-1c9a-4419-8593-3fd58bd092ec)
+![add](https://github.com/velizar92/ReactNativeBasicsApp/assets/40525254/16f7aeb9-6a13-4c7b-868e-41ba86c35cd3)
+
 
 5. Delete Goal
 
-![delTodo](https://github.com/velizar92/ReactNativeBasicsApp/assets/40525254/79c371ab-7cd0-4f1b-a153-9f58f0790de5)
+![del](https://github.com/velizar92/ReactNativeBasicsApp/assets/40525254/67234cd5-a5cb-48d4-995b-862ebccd0306)
+
+
 
 
 
